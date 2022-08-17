@@ -1,1 +1,1 @@
-export { feature } from 'npm/topojson-client'
+export { feature } from '#topojson-client'
